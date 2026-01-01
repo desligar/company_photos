@@ -25,7 +25,6 @@ npm run start
 Then open your browser to http://localhost:3000
 
 ## How it works
-
 1. Load an image via URL or file upload
 2. Click and drag to select a circular area
 3. The circle diameter is constrained to the minimum of image width or height
